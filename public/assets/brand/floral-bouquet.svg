@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 340" fill="none">
+  <defs>
+    <linearGradient id="leaf" x1="0" y1="0" x2="36" y2="64" gradientUnits="userSpaceOnUse"><stop stop-color="#b0b49a"/><stop offset="1" stop-color="#78856a"/></linearGradient>
+    <radialGradient id="petal"><stop stop-color="#c68f92"/><stop offset=".65" stop-color="#e5b8b4"/><stop offset="1" stop-color="#f0d6ca"/></radialGradient>
+    <radialGradient id="ivory"><stop stop-color="#d3b68c"/><stop offset=".5" stop-color="#ebd8ba"/><stop offset="1" stop-color="#faf0dd"/></radialGradient>
+    <g id="leaf-shape"><path d="M0 0C-5-25 8-47 27-58C34-34 24-9 0 0Z" fill="url(#leaf)"/><path d="M1-2 23-50M10-23 7-38M15-33 25-37" stroke="#6f7b62" stroke-opacity=".48" stroke-width=".8"/></g>
+    <path id="outer-petal" d="M0 8C-18 1-36-15-30-34C-25-54-4-51 6-36C22-48 39-34 32-17C28-5 14 4 0 8Z"/>
+    <path id="inner-petal" d="M0 6C-17 0-24-12-17-23C-11-33 3-25 6-17C19-26 28-12 18-3C13 2 7 5 0 6Z"/>
+    <g id="rose" fill="url(#petal)" stroke="#b47c7e" stroke-opacity=".32" stroke-width=".7">
+      <use href="#outer-petal" transform="rotate(8)"/><use href="#outer-petal" transform="rotate(77)"/><use href="#outer-petal" transform="rotate(149)"/><use href="#outer-petal" transform="rotate(222)"/><use href="#outer-petal" transform="rotate(294)"/>
+      <use href="#outer-petal" transform="rotate(42) scale(.72)"/><use href="#outer-petal" transform="rotate(132) scale(.72)"/><use href="#outer-petal" transform="rotate(222) scale(.72)"/><use href="#outer-petal" transform="rotate(312) scale(.72)"/>
+      <use href="#inner-petal" transform="rotate(18)"/><use href="#inner-petal" transform="rotate(138)"/><use href="#inner-petal" transform="rotate(258)"/>
+      <path d="M-10 3C-16-9-1-17 7-9C17-4 9 11-1 9C-10 8-8-4-1-4C4-5 7 0 3 3" fill="#c69191" stroke="#a7686c" stroke-opacity=".6"/>
+    </g>
+    <g id="cream-rose" fill="url(#ivory)" stroke="#c0a47c" stroke-opacity=".38" stroke-width=".8">
+      <use href="#outer-petal"/><use href="#outer-petal" transform="rotate(72)"/><use href="#outer-petal" transform="rotate(144)"/><use href="#outer-petal" transform="rotate(216)"/><use href="#outer-petal" transform="rotate(288)"/>
+      <use href="#inner-petal" transform="rotate(35)"/><use href="#inner-petal" transform="rotate(155)"/><use href="#inner-petal" transform="rotate(275)"/>
+      <path d="M-8 3C-16-10 4-18 11-5C17 7-9 12-5 0C-3-6 7-4 4 2" fill="#ddc5a0"/>
+    </g>
+    <g id="daisy" fill="#f6e9da" stroke="#d4bba0" stroke-width=".6">
+      <ellipse cy="-11" rx="5.5" ry="11"/><ellipse cy="-11" rx="5.5" ry="11" transform="rotate(72)"/><ellipse cy="-11" rx="5.5" ry="11" transform="rotate(144)"/><ellipse cy="-11" rx="5.5" ry="11" transform="rotate(216)"/><ellipse cy="-11" rx="5.5" ry="11" transform="rotate(288)"/>
+      <circle r="5" fill="#b19556" stroke="none"/><circle cx="-1" cy="-1" r="1.5" fill="#e5cf95" stroke="none"/>
+    </g>
+  </defs>
+  <g stroke="#899076" stroke-width="1.5" stroke-linecap="round">
+    <path d="M132 323C142 267 152 216 126 146C110 102 86 75 64 44"/>
+    <path d="M136 318C164 269 207 222 233 149M141 290C118 253 77 230 44 201M146 259C166 204 172 142 190 83M151 242C121 223 95 181 88 139"/>
+    <path d="M155 240C194 218 240 204 267 165M126 279C103 272 80 263 64 245"/>
+  </g>
+  <g opacity=".9">
+    <use href="#leaf-shape" transform="translate(131 281) rotate(-94) scale(.9)"/>
+    <use href="#leaf-shape" transform="translate(144 273) rotate(49) scale(.95)"/>
+    <use href="#leaf-shape" transform="translate(114 252) rotate(-108) scale(.82)"/>
+    <use href="#leaf-shape" transform="translate(171 252) rotate(10) scale(.9)"/>
+    <use href="#leaf-shape" transform="translate(194 225) rotate(55) scale(.85)"/>
+    <use href="#leaf-shape" transform="translate(91 235) rotate(-93) scale(.75)"/>
+    <use href="#leaf-shape" transform="translate(113 208) rotate(-64) scale(.82)"/>
+    <use href="#leaf-shape" transform="translate(156 208) rotate(-32) scale(.95)"/>
+    <use href="#leaf-shape" transform="translate(170 161) rotate(24) scale(.8)"/>
+    <use href="#leaf-shape" transform="translate(210 194) rotate(55) scale(.9)"/>
+    <use href="#leaf-shape" transform="translate(219 180) rotate(-25) scale(.66)"/>
+    <use href="#leaf-shape" transform="translate(102 106) rotate(-64) scale(.74)"/>
+    <use href="#leaf-shape" transform="translate(74 67) rotate(-51) scale(.65)"/>
+    <use href="#leaf-shape" transform="translate(181 114) rotate(6) scale(.72)"/>
+  </g>
+  <g fill="#bd9c88" opacity=".8"><ellipse cx="62" cy="39" rx="6" ry="11" transform="rotate(-35 62 39)"/><ellipse cx="191" cy="78" rx="6" ry="12" transform="rotate(14 191 78)"/><ellipse cx="270" cy="161" rx="5" ry="9" transform="rotate(39 270 161)"/></g>
+  <use href="#cream-rose" transform="translate(218 142) rotate(22) scale(.79)"/>
+  <use href="#rose" transform="translate(119 153) rotate(-16) scale(1.08)"/>
+  <use href="#rose" transform="translate(183 225) rotate(27) scale(.63)"/>
+  <use href="#daisy" transform="translate(61 204) rotate(18) scale(.84)"/>
+  <use href="#daisy" transform="translate(83 112) rotate(-9) scale(.65)"/>
+  <use href="#daisy" transform="translate(248 207) rotate(26) scale(.68)"/>
+  <use href="#daisy" transform="translate(73 262) rotate(-10) scale(.55)"/>
+  <path d="M126 307C135 311 145 314 155 313M127 312C137 316 147 318 152 317" stroke="#b79a72" stroke-width="2" stroke-linecap="round"/>
+</svg>

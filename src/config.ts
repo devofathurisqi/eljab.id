@@ -2,8 +2,8 @@ export const config = {
   "brand": "eljab.id",
   "key": "eljab",
   "tagline": "Keanggunan dalam keseharian.",
-  "whatsapp": "6281336697504",
-  "whatsappDisplay": "+62 813-3669-7504",
+  "whatsapp": "6282241183864",
+  "whatsappDisplay": "+62 822-4118-3864",
   "storageKey": "eljab-bag-v1",
   "favoritesKey": "eljab-favorites-v1",
   "categories": [

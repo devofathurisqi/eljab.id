@@ -1,5 +1,17 @@
 # Verifikasi eljab.id
 
+## Revisi klien — 6 November 2026
+
+- Tiga ilustrasi botani SVG asli (10.647 byte total): rangkaian mawar, tangkai bunga kecil, dan ornamen memanjang. Nuansa dusty rose, ivory, dan sage mengikuti palet krem/emas dan bentuk bunga pada logo. Diterapkan pada hero, bingkai identitas melengkung, katalog/tersimpan, kontak, dan footer.
+- Seluruh tujuan WhatsApp dan nomor yang ditampilkan diperbarui menjadi **6282241183864 / +62 822-4118-3864**, termasuk kontak, order langsung produk, dan checkout tas.
+- `npm test`: **21/21 lulus**. Assertion tujuan WhatsApp memakai nomor literal terbaru; snapshot 27 produk dan 468 varian tetap sesuai.
+- `npm run build`: TypeScript, Vite, prarender **33 halaman**, serta pemeriksaan **182 aset/tautan lokal** lulus.
+- Browser lokal: **35 kombinasi halaman/viewport** pada 360, 390, 768, 1366, dan 1920 px. Halaman beranda, katalog, cerita, detail Gana Instan, panduan, tersimpan, dan tas tidak mengalami overflow horizontal atau gambar rusak. Semua tautan WhatsApp menuju nomor baru. Ilustrasi dekoratif memiliki alt kosong, aria-hidden, dan pointer-events none.
+- Enam pemeriksaan interaksi lulus: pilihan Baby Pink di hero, menu mobile, pencarian katalog, tautan order langsung, penambahan ke tas, serta nomor tujuan dan varian Baby Pink pada draft checkout WhatsApp. Tidak ada error console/runtime atau pesan yang dikirim.
+- Tampilan desktop dan ponsel ditinjau melalui screenshot lokal, termasuk detail hero, bingkai identitas, kontak, dan footer. Seluruh validasi dilakukan sebelum push. Sesuai instruksi pengguna, pekerjaan berhenti setelah push berhasil tanpa pemeriksaan deploy.
+
+## Riwayat verifikasi awal
+
 3 November 2026, Asia/Jakarta.
 
 ## Hasil
