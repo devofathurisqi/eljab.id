@@ -7,3 +7,5 @@ dist/
 qa/*.png
 qa/*.jpg
 qa/*.jpeg
+qa/color-review/
+qa/color-ui/

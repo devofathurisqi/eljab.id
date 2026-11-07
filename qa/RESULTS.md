@@ -1,5 +1,20 @@
 # Verifikasi eljab.id
 
+## Perbaikan kecocokan warna — 7 November 2026
+
+- Audit visual seluruh 468 varian dari 27 produk: **359 foto tunggal sesuai**, **109 foto disembunyikan** (106 poster gabungan dan 3 kasus meragukan/bertentangan). Foto pada **21 pilihan lama** juga disembunyikan. Temuan khusus: Paris Legend White tampak ungu; Paris Japan Granola bertuliskan Charcoal; Zoya Black bertuliskan Smoke.
+- Satu daftar foto terverifikasi dipakai oleh hero yang memilih warna, kartu dengan pilihan/filter warna, detail, zoom dan tas. Tidak ada penggantian ke foto model umum, poster atau warna pertama ketika foto pilihan tidak tersedia. Gambar yang gagal dimuat menampilkan keterangan foto belum tersedia.
+- Swatch tanpa foto terverifikasi memakai pola netral; swatch White yang sebelumnya ungu tidak lagi menyesatkan. Pilihan tetap bisa dipilih melalui nama pada selector, serta disimpan dan dipesan dengan nama yang sama.
+- Detail produk menginisialisasi pilihan secara langsung dari tautan; pergantian produk/tautan tidak mempertahankan foto pilihan sebelumnya. ID varian yang tidak dikenal menampilkan pilihan kosong sampai customer memilih warna. Tautan tas membawa ID varian yang sama kembali ke detail.
+- Filter warna dan pencarian harus cocok pada varian yang sama; hasil yang bertentangan tidak memakai foto dari salah satu filter saja.
+- **23/23 tes otomatis lulus**: seluruh keputusan foto aktif/legacy, SHA-256 sumber, keberadaan turunan responsif, penolakan pemetaan baru/berubah, konflik filter, harga dan pesanan. Snapshot katalog/harga asli tetap identik.
+- **1.077 perbandingan gambar responsif lulus** terhadap 359 foto utama. Selisih rata-rata kanal maksimum 0,791/255; tidak ditemukan turunan yang tertukar.
+- Browser lokal pada build produksi: **468 pilihan dropdown**, **48 klik swatch**, **21 tautan legacy**, **489 baris tas dalam batch maksimal 100**, **19 kartu hasil filter/pencarian**, serta **25 pemeriksaan layout** pada 360, 390, 768, 1366 dan 1920 px. Tidak ada error runtime atau overflow horizontal. Semua foto aktif yang dipertahankan berhasil didekode.
+- Pengujian tambahan: zoom Red sesuai pilihan; berpindah ke White menghapus foto/zoom; ID varian tidak dikenal tidak memakai warna pertama; permintaan gambar yang sengaja digagalkan menampilkan keterangan lalu pulih saat warna diganti; klik swatch kartu membawa varian yang sama ke detail.
+- **8 pemeriksaan interaksi mobile lulus** pada build final: hero Baby Pink ke detail, foto pilihan di tas, tautan kembali ke varian, jumlah pesanan pada draft WhatsApp, foto White disembunyikan di tas/detail, swatch netral untuk pilihan tanpa foto, dan swatch warna untuk foto terverifikasi. Tidak ada pesan WhatsApp dikirim.
+- TypeScript dan build produksi final lulus: **33 halaman** diprarender dan **201 aset/tautan lokal** diverifikasi. Screenshot lokal untuk foto sesuai, foto tidak tersedia, poster yang disembunyikan, katalog, serta swatch netral ditinjau.
+- Rincian keputusan: `catalog/VARIANT-PHOTO-AUDIT.md` dan `catalog/variant-photo-audit.json`. Hasil browser lokal: `qa/color-ui/results.json` dan `interactions.json` (diabaikan Git). Sesuai instruksi pengguna, seluruh verifikasi dilakukan sebelum push; tidak ada verifikasi deploy.
+
 ## Revisi klien — 6 November 2026
 
 - Tiga ilustrasi botani SVG asli (10.647 byte total): rangkaian mawar, tangkai bunga kecil, dan ornamen memanjang. Nuansa dusty rose, ivory, dan sage mengikuti palet krem/emas dan bentuk bunga pada logo. Diterapkan pada hero, bingkai identitas melengkung, katalog/tersimpan, kontak, dan footer.

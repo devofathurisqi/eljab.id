@@ -100,3 +100,7 @@
   .catalog-floral { width: 128px; top: 21px; right: 0; }
   .footer-floral { left: 126px; top: 16px; width: 140px; }
 }
+
+.bag-photo-inquiry{display:flex;align-items:center;justify-content:center;height:100%;padding:10px;background:var(--soft);color:var(--muted);text-align:center;font-size:10px;line-height:1.6}.detail-inquiry>span:not(.eyebrow){font-size:clamp(26px,3.5vw,46px);overflow-wrap:anywhere}
+
+.detail-swatches button.unverified-swatch,.card-swatches button.unverified-swatch{background:repeating-linear-gradient(135deg,var(--soft) 0 4px,var(--line) 4px 5px);background-clip:content-box}

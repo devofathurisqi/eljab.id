@@ -1,5 +1,7 @@
 # Sugar Shawl — audit pilihan warna
 
+> Revisi eljab.id 7 November 2026: nama pilihan pada audit historis ini dipertahankan. Foto gabungan dan kecocokan meragukan tidak lagi digunakan sebagai foto varian terpilih. Lihat [audit kecocokan foto varian](VARIANT-PHOTO-AUDIT.md) dan `variant-photo-audit.json` untuk keputusan yang berlaku.
+
 Sumber: https://drive.google.com/drive/folders/1RwtruDL86PYi3TVqILmxrZgZ_XGT1zPv
 
 Setiap nama di bawah dapat dipilih secara terpisah. Foto gabungan diberi keterangan referensi. Foto tidak diwarnai ulang.

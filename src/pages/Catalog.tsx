@@ -5,6 +5,7 @@ import { products } from '../data/catalog';
 import { config } from '../config';
 import { useShop } from '../store';
 import ProductCard from '../components/ProductCard';
+import { catalogVariant } from '../product-photos';
 import { Modal } from '../components/UI';
 import Floral from '../components/Floral';
 export default function Catalog({ saved = false }: { saved?: boolean }) {
@@ -13,7 +14,7 @@ export default function Catalog({ saved = false }: { saved?: boolean }) {
   const q = params.get('q') || '', category = params.get('kategori') || '', color = params.get('warna') || '', sort = params.get('urut') || 'pilihan', max = Number(params.get('maks') || 0);
   const [draft, setDraft] = useState(q); useEffect(() => setDraft(q), [q]);
   function update(key: string, value: string) { const next = new URLSearchParams(window.location.search); if (value) next.set(key, value); else next.delete(key); setParams(next); }
-  const list = products.filter(p => (!saved || favorites.includes(p.id)) && (!category || p.category === category) && (!q || `${p.name} ${p.aliases?.join(' ') || ''} ${p.material} ${p.category} ${p.variants.map(v => v.name).join(' ')}`.toLowerCase().includes(q.toLowerCase())) && (!color || p.colorFamily === color || p.variants.some(v => v.family === color)) && (!max || (p.retailPrice !== null && p.retailPrice <= max)));
+  const list = products.filter(p => (!saved || favorites.includes(p.id)) && (!category || p.category === category) && (!q || `${p.name} ${p.aliases?.join(' ') || ''} ${p.material} ${p.category} ${p.variants.map(v => v.name).join(' ')}`.toLowerCase().includes(q.toLowerCase())) && (!color || Boolean(catalogVariant(p,color,q))) && (!max || (p.retailPrice !== null && p.retailPrice <= max)));
   list.sort((a, b) => sort === 'nama' ? a.name.localeCompare(b.name, 'id') : sort.startsWith('harga') ? (a.retailPrice === null ? (b.retailPrice === null ? 0 : 1) : b.retailPrice === null ? -1 : sort === 'harga-naik' ? a.retailPrice - b.retailPrice : b.retailPrice - a.retailPrice) : Number(b.featured) - Number(a.featured));
   const active = !!(q || category || color || max);
   const filters = <><div className="filter-group"><label htmlFor="filter-category">Kategori</label><select id="filter-category" value={category} onChange={e => update('kategori', e.target.value)}><option value="">Semua kategori</option>{config.categories.map(c => <option key={c}>{c}</option>)}</select></div><div className="filter-group"><label htmlFor="filter-color">Nuansa warna</label><select id="filter-color" value={color} onChange={e => update('warna', e.target.value)}><option value="">Semua nuansa</option>{['Putih', 'Pink', 'Lavender', 'Taupe', 'Hitam', 'Biru', 'Hijau', 'Motif'].map(c => <option key={c}>{c}</option>)}</select></div><div className="filter-group"><label htmlFor="filter-max">Harga maksimum</label><select id="filter-max" value={max || ''} onChange={e => update('maks', e.target.value)}><option value="">Semua harga</option>{[50000, 75000, 100000, 200000].map(n => <option key={n} value={n}>Rp{n.toLocaleString('id-ID')}</option>)}</select></div><button className="text-link" onClick={() => { setParams({}); setDraft(''); }}>Hapus semua filter <X size={14} /></button></>;
