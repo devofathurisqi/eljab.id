@@ -1,5 +1,19 @@
 # Verifikasi eljab.id
 
+## Tindak lanjut warna tombol — 7 November 2026
+
+- Laporan screenshot customer: Paris Legend / Beet Red menampilkan tombol abu-abu krem (`#bbb19e`), sementara kain pada foto merah tua. Foto dan nama pilihan sudah sesuai, tetapi audit sebelumnya belum memvalidasi warna tombol dari foto yang dipertahankan.
+- Akar masalah: `Variant.hex` lama memakai kotak sampel yang sama pada komposisi foto berbeda, sehingga pada sebagian varian mengenai latar; pilihan lain memakai warna perkiraan. UI sekarang tidak memakai fallback ke nilai hex tersebut.
+- **268 area kain** pada foto varian diperiksa melalui lembar kontak dengan kotak sampel dan perbandingan warna. Sampel yang mengenai latar, wajah model, tulisan atau bayangan lipatan terlalu gelap dipindahkan sebelum disetujui. **200 pilihan aktif** dan **21 pilihan lama** tanpa sampel warna tunggal yang sesuai memakai pola netral. Foto yang terverifikasi tetap tersedia meskipun motif/gradasinya tidak diberi satu warna perkiraan.
+- Beet Red memakai sampel kain **`#771830`**. Contoh lain yang dikoreksi: Soft Pink, Abalone, Gana Biscuit dan Gana Baby Pink. Kartu katalog dan detail memakai komponen `VariantSwatch` yang sama; hero memakai helper `variantSwatch()` yang sama. Nama, foto dan harga produk tetap utuh.
+- **27/27 tes otomatis lulus**: termasuk regresi Beet Red, warna kuat lain, 489 keputusan swatch aktif/legacy, hash sumber dan pencegahan pemakaian hex lama atau warna perkiraan untuk motif/gradasi.
+- `scripts/verify-swatches.py` lulus: **268 sampel** dihitung ulang dari piksel foto asli, dimensi, koordinat dan SHA-256. Tidak ada perubahan warna pada aset foto.
+- Browser pada build lokal: **468 pilihan dropdown**, **48 klik swatch**, **21 tautan lama**, **489 baris tas**, **19 kartu hasil filter/pencarian**, serta **30 pemeriksaan layout** pada 360, 390, 768, 1366 dan 1920 px lulus. Nilai warna tombol aktual dicek untuk setiap pilihan; pola netral dicek saat sampel tidak tersedia.
+- Browser mendekode foto sumber lewat canvas dan membandingkan **268 median piksel kain** dengan warna tombol: seluruhnya sesuai, perbedaan kanal maksimum **1/255**. Ini menambah pemeriksaan independen dari nilai JSON atau label nama saja.
+- **8 interaksi mobile lulus**, termasuk warna indikator hero, pilihan ke detail, foto/tautan tas, jumlah pada draft WhatsApp, dan varian tanpa foto. Tidak ada pesan dikirim dan tidak ada error runtime.
+- Build final lulus: TypeScript, Vite, prarender **33 halaman**, dan verifikasi **201 aset/tautan lokal**. Screenshot mobile tombol terpilih Beet Red beserta fotonya ditinjau. Laporan rinci: `catalog/SWATCH-AUDIT.md` dan `swatch-audit.json`.
+- Semua pemeriksaan dilakukan secara lokal sebelum push; sesuai instruksi pengguna, tidak dilakukan verifikasi deploy.
+
 ## Perbaikan kecocokan warna — 7 November 2026
 
 - Audit visual seluruh 468 varian dari 27 produk: **359 foto tunggal sesuai**, **109 foto disembunyikan** (106 poster gabungan dan 3 kasus meragukan/bertentangan). Foto pada **21 pilihan lama** juga disembunyikan. Temuan khusus: Paris Legend White tampak ungu; Paris Japan Granola bertuliskan Charcoal; Zoya Black bertuliskan Smoke.

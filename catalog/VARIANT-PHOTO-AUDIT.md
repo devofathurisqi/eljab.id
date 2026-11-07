@@ -2,6 +2,8 @@
 
 Tanggal: 7 November 2026 (Asia/Jakarta).
 
+Audit lanjutan untuk kecocokan **warna tombol dengan kain** tersedia di [SWATCH-AUDIT.md](SWATCH-AUDIT.md). Foto yang terverifikasi tidak otomatis memiliki sampel warna tombol; keputusan keduanya diperiksa terpisah.
+
 Seluruh 27 produk, 468 varian aktif dan 21 pilihan lama diperiksa. Foto asli tidak diubah atau diwarnai ulang. Harga, nama varian dan isi pesanan tetap mengikuti snapshot yang disetujui.
 
 ## Aturan foto

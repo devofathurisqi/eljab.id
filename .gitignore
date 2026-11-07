@@ -9,3 +9,4 @@ qa/*.jpg
 qa/*.jpeg
 qa/color-review/
 qa/color-ui/
+qa/swatch-review/

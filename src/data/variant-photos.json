@@ -2,131 +2,163 @@
   "modal-viscose": {
     "coffee-latte": {
       "name": "Coffee Latte",
-      "image": "shade-f2c13163456b27.webp"
+      "image": "shade-f2c13163456b27.webp",
+      "swatchHex": "#846050"
     },
     "mahogany": {
       "name": "Mahogany",
-      "image": "shade-185c92f1bd0101.webp"
+      "image": "shade-185c92f1bd0101.webp",
+      "swatchHex": "#4c2927"
     },
     "beige": {
       "name": "Beige",
-      "image": "shade-34276d41624829.webp"
+      "image": "shade-34276d41624829.webp",
+      "swatchHex": "#ae806c"
     },
     "dusty": {
       "name": "Dusty",
-      "image": "shade-ffa5358156dca0.webp"
+      "image": "shade-ffa5358156dca0.webp",
+      "swatchHex": "#845355"
     },
     "iron": {
       "name": "Iron",
-      "image": "shade-5ad26164004fe5.webp"
+      "image": "shade-5ad26164004fe5.webp",
+      "swatchHex": "#3b2f2b"
     },
     "white": {
       "name": "White",
-      "image": "shade-8f47256b1b15fc.webp"
+      "image": "shade-8f47256b1b15fc.webp",
+      "swatchHex": "#a2a39d"
     },
     "jeans": {
       "name": "Jeans",
-      "image": "shade-1b293ee184e56a.webp"
+      "image": "shade-1b293ee184e56a.webp",
+      "swatchHex": "#514c60"
     },
     "almond-beige": {
       "name": "Almond Beige",
-      "image": "shade-b750adc1b4433c.webp"
+      "image": "shade-b750adc1b4433c.webp",
+      "swatchHex": "#8d7d60"
     },
     "soft-lilac": {
       "name": "Soft Lilac",
-      "image": "shade-dffe7085a4c1d1.webp"
+      "image": "shade-dffe7085a4c1d1.webp",
+      "swatchHex": "#9e828b"
     },
     "machiato": {
       "name": "Machiato",
-      "image": "shade-df29c4d19c5a29.webp"
+      "image": "shade-df29c4d19c5a29.webp",
+      "swatchHex": "#907553"
     },
     "powder-pink": {
       "name": "Powder Pink",
-      "image": "shade-207015ac47d2cd.webp"
+      "image": "shade-207015ac47d2cd.webp",
+      "swatchHex": "#a27572"
     },
     "sand": {
       "name": "Sand",
-      "image": "shade-9b6fcd323eae4e.webp"
+      "image": "shade-9b6fcd323eae4e.webp",
+      "swatchHex": "#a47c6d"
     },
     "dark-oat": {
       "name": "Dark Oat",
-      "image": "shade-07766b5bd83c11.webp"
+      "image": "shade-07766b5bd83c11.webp",
+      "swatchHex": "#81615a"
     },
     "fossil": {
       "name": "Fossil",
-      "image": "shade-93f4aa28f4a405.webp"
+      "image": "shade-93f4aa28f4a405.webp",
+      "swatchHex": "#4b312d"
     },
     "butter-yellow": {
       "name": "Butter Yellow",
-      "image": "shade-491bf49d5f4642.webp"
+      "image": "shade-491bf49d5f4642.webp",
+      "swatchHex": "#bcac82"
     },
     "royal-pink": {
       "name": "Royal Pink",
-      "image": "shade-96ac65d518f1c2.webp"
+      "image": "shade-96ac65d518f1c2.webp",
+      "swatchHex": "#a37479"
     },
     "deep-almond": {
       "name": "Deep Almond",
-      "image": "shade-244a9905df5eea.webp"
+      "image": "shade-244a9905df5eea.webp",
+      "swatchHex": "#8c6a54"
     },
     "deep-charcoal": {
       "name": "Deep Charcoal",
-      "image": "shade-39e7a31da2cc7c.webp"
+      "image": "shade-39e7a31da2cc7c.webp",
+      "swatchHex": "#8b7464"
     },
     "rose-quartz": {
       "name": "Rose Quartz",
-      "image": "shade-6bc01fd42d189a.webp"
+      "image": "shade-6bc01fd42d189a.webp",
+      "swatchHex": "#9f6b65"
     },
     "coffee": {
       "name": "Coffee",
-      "image": "shade-3b601a8caf939f.webp"
+      "image": "shade-3b601a8caf939f.webp",
+      "swatchHex": "#57262a"
     },
     "wine": {
       "name": "Wine",
-      "image": "shade-381d1c19bce3f3.webp"
+      "image": "shade-381d1c19bce3f3.webp",
+      "swatchHex": "#310622"
     },
     "flint": {
       "name": "Flint",
-      "image": "shade-be35a1efa3165d.webp"
+      "image": "shade-be35a1efa3165d.webp",
+      "swatchHex": "#744e59"
     },
     "silver": {
       "name": "Silver",
-      "image": "shade-ab2e7464d500f5.webp"
+      "image": "shade-ab2e7464d500f5.webp",
+      "swatchHex": "#a0877f"
     },
     "dark-latte": {
       "name": "Dark Latte",
-      "image": "shade-2a10c6caea38cd.webp"
+      "image": "shade-2a10c6caea38cd.webp",
+      "swatchHex": "#856157"
     },
     "black": {
       "name": "Black",
-      "image": "shade-2d2ee12c616de2.webp"
+      "image": "shade-2d2ee12c616de2.webp",
+      "swatchHex": "#140d16"
     },
     "maroon": {
       "name": "Maroon",
-      "image": "shade-278bbcbdea7bae.webp"
+      "image": "shade-278bbcbdea7bae.webp",
+      "swatchHex": "#610e2f"
     },
     "charcoal": {
       "name": "Charcoal",
-      "image": "shade-4debced0baf418.webp"
+      "image": "shade-4debced0baf418.webp",
+      "swatchHex": "#9e877e"
     },
     "grey": {
       "name": "Grey",
-      "image": "shade-e52eda9b978113.webp"
+      "image": "shade-e52eda9b978113.webp",
+      "swatchHex": "#968483"
     },
     "navy": {
       "name": "Navy",
-      "image": "shade-7b66697c231b0d.webp"
+      "image": "shade-7b66697c231b0d.webp",
+      "swatchHex": "#1c1539"
     },
     "storm": {
       "name": "Storm",
-      "image": "shade-39d8d6b99abba6.webp"
+      "image": "shade-39d8d6b99abba6.webp",
+      "swatchHex": "#897470"
     },
     "choco": {
       "name": "Choco",
-      "image": "shade-155a28ee2856eb.webp"
+      "image": "shade-155a28ee2856eb.webp",
+      "swatchHex": "#8c6b6a"
     },
     "dark-beige": {
       "name": "Dark Beige",
-      "image": "shade-73d8c3f51e86c1.webp"
+      "image": "shade-73d8c3f51e86c1.webp",
+      "swatchHex": "#a8785c"
     }
   },
   "viscose-gradasi": {
@@ -182,363 +214,452 @@
   "paris-legend": {
     "mustard": {
       "name": "Mustard",
-      "image": "shade-2b2bdfa335abe0.webp"
+      "image": "shade-2b2bdfa335abe0.webp",
+      "swatchHex": "#c69955"
     },
     "dark-latte": {
       "name": "Dark Latte",
-      "image": "shade-4a7448bc0245e8.webp"
+      "image": "shade-4a7448bc0245e8.webp",
+      "swatchHex": "#866a5f"
     },
     "butter-cream": {
       "name": "Butter Cream",
-      "image": "shade-9747ddcfeda6e4.webp"
+      "image": "shade-9747ddcfeda6e4.webp",
+      "swatchHex": "#ab9e7a"
     },
     "choco": {
       "name": "Choco",
-      "image": "shade-3341f12197cd15.webp"
+      "image": "shade-3341f12197cd15.webp",
+      "swatchHex": "#61454b"
     },
     "beet-red": {
       "name": "Beet Red",
-      "image": "shade-eb1d5e2be8074f.webp"
+      "image": "shade-eb1d5e2be8074f.webp",
+      "swatchHex": "#771830"
     },
     "dusty": {
       "name": "Dusty",
-      "image": "shade-e5fee6fce1bfc8.webp"
+      "image": "shade-e5fee6fce1bfc8.webp",
+      "swatchHex": "#c49c9e"
     },
     "baby-pink": {
       "name": "Baby Pink",
-      "image": "shade-355e1c221875b6.webp"
+      "image": "shade-355e1c221875b6.webp",
+      "swatchHex": "#c89c99"
     },
     "dusky-rose": {
       "name": "Dusky Rose",
-      "image": "shade-ba2f771d8af370.webp"
+      "image": "shade-ba2f771d8af370.webp",
+      "swatchHex": "#b79c91"
     },
     "vanilla": {
       "name": "Vanilla",
-      "image": "shade-91f0b57e2ff86f.webp"
+      "image": "shade-91f0b57e2ff86f.webp",
+      "swatchHex": "#e4d8c3"
     },
     "abalone": {
       "name": "Abalone",
-      "image": "shade-911251a4ea3932.webp"
+      "image": "shade-911251a4ea3932.webp",
+      "swatchHex": "#c7abb2"
     },
     "latte": {
       "name": "Latte",
-      "image": "shade-779d987300c968.webp"
+      "image": "shade-779d987300c968.webp",
+      "swatchHex": "#d2b5a4"
     },
     "electric-blue": {
       "name": "Electric Blue",
-      "image": "shade-95bb6ce56180c1.webp"
+      "image": "shade-95bb6ce56180c1.webp",
+      "swatchHex": "#232393"
     },
     "maroon": {
       "name": "Maroon",
-      "image": "shade-d3ea1e17f0bcf6.webp"
+      "image": "shade-d3ea1e17f0bcf6.webp",
+      "swatchHex": "#731429"
     },
     "milk-tea": {
       "name": "Milk Tea",
-      "image": "shade-291574e0e51dce.webp"
+      "image": "shade-291574e0e51dce.webp",
+      "swatchHex": "#b28241"
     },
     "midnight": {
       "name": "Midnight",
-      "image": "shade-d48e9ea9c94b79.webp"
+      "image": "shade-d48e9ea9c94b79.webp",
+      "swatchHex": "#4b4159"
     },
     "flint": {
       "name": "Flint",
-      "image": "shade-e1a22586501ed5.webp"
+      "image": "shade-e1a22586501ed5.webp",
+      "swatchHex": "#aa90b3"
     },
     "olive": {
       "name": "Olive",
-      "image": "shade-17e64695b9295a.webp"
+      "image": "shade-17e64695b9295a.webp",
+      "swatchHex": "#70553b"
     },
     "red": {
       "name": "Red",
-      "image": "shade-089a764acc2e36.webp"
+      "image": "shade-089a764acc2e36.webp",
+      "swatchHex": "#a50323"
     },
     "sage": {
       "name": "Sage",
-      "image": "shade-dd3d566c11a6b7.webp"
+      "image": "shade-dd3d566c11a6b7.webp",
+      "swatchHex": "#797560"
     },
     "sand": {
       "name": "Sand",
-      "image": "shade-f55d57c81e2c09.webp"
+      "image": "shade-f55d57c81e2c09.webp",
+      "swatchHex": "#bfaca0"
     },
     "pink-powder": {
       "name": "Pink Powder",
-      "image": "shade-edd030bb1665d9.webp"
+      "image": "shade-edd030bb1665d9.webp",
+      "swatchHex": "#5e453a"
     },
     "tan": {
       "name": "Tan",
-      "image": "shade-d2971e7010e0da.webp"
+      "image": "shade-d2971e7010e0da.webp",
+      "swatchHex": "#b59c8e"
     },
     "tea-flower": {
       "name": "Tea Flower",
-      "image": "shade-f4607590263775.webp"
+      "image": "shade-f4607590263775.webp",
+      "swatchHex": "#a28d72"
     },
     "soft-pink": {
       "name": "Soft Pink",
-      "image": "shade-10d474dc5cd531.webp"
+      "image": "shade-10d474dc5cd531.webp",
+      "swatchHex": "#bf8d89"
     },
     "waffle": {
       "name": "Waffle",
-      "image": "shade-7ecada2166b9a8.webp"
+      "image": "shade-7ecada2166b9a8.webp",
+      "swatchHex": "#78634c"
     },
     "almond-beige": {
       "name": "Almond Beige",
-      "image": "shade-9571d0370acf5c.webp"
+      "image": "shade-9571d0370acf5c.webp",
+      "swatchHex": "#775d52"
     },
     "alice-blue": {
       "name": "Alice Blue",
-      "image": "shade-24135175350f93.webp"
+      "image": "shade-24135175350f93.webp",
+      "swatchHex": "#7f8bae"
     },
     "british-army": {
       "name": "British Army",
-      "image": "shade-472de078cddb11.webp"
+      "image": "shade-472de078cddb11.webp",
+      "swatchHex": "#436a6d"
     },
     "beige": {
       "name": "Beige",
-      "image": "shade-8577692cc050d7.webp"
+      "image": "shade-8577692cc050d7.webp",
+      "swatchHex": "#b5a285"
     },
     "brownie": {
       "name": "Brownie",
-      "image": "shade-171b60cac139ea.webp"
+      "image": "shade-171b60cac139ea.webp",
+      "swatchHex": "#5b393a"
     },
     "butter-yellow": {
       "name": "Butter Yellow",
-      "image": "shade-e92e4a679f1bf1.webp"
+      "image": "shade-e92e4a679f1bf1.webp",
+      "swatchHex": "#ae8046"
     },
     "coffee": {
       "name": "Coffee",
-      "image": "shade-a233bc78a2fc5f.webp"
+      "image": "shade-a233bc78a2fc5f.webp",
+      "swatchHex": "#281212"
     },
     "charcoal": {
       "name": "Charcoal",
-      "image": "shade-864934847ad1ec.webp"
+      "image": "shade-864934847ad1ec.webp",
+      "swatchHex": "#716053"
     },
     "ash": {
       "name": "Ash",
-      "image": "shade-703655fb19ef3b.webp"
+      "image": "shade-703655fb19ef3b.webp",
+      "swatchHex": "#6d5e59"
     },
     "lilac": {
       "name": "Lilac",
-      "image": "shade-7aec166d04cdd0.webp"
+      "image": "shade-7aec166d04cdd0.webp",
+      "swatchHex": "#9b8fb4"
     },
     "black": {
       "name": "Black",
-      "image": "shade-4a2104e8921686.webp"
+      "image": "shade-4a2104e8921686.webp",
+      "swatchHex": "#14101e"
     },
     "dark-navy": {
       "name": "Dark Navy",
-      "image": "shade-b3660826ac6651.webp"
+      "image": "shade-b3660826ac6651.webp",
+      "swatchHex": "#211b3a"
     },
     "deep-denim": {
       "name": "Deep Denim",
-      "image": "shade-884934315323e6.webp"
+      "image": "shade-884934315323e6.webp",
+      "swatchHex": "#686687"
     },
     "dim-grey": {
       "name": "Dim Grey",
-      "image": "shade-adae8d51712644.webp"
+      "image": "shade-adae8d51712644.webp",
+      "swatchHex": "#453a34"
     },
     "heather": {
       "name": "Heather",
-      "image": "shade-e8b4b8d21be825.webp"
+      "image": "shade-e8b4b8d21be825.webp",
+      "swatchHex": "#4f5a90"
     },
     "fresh-emerald": {
       "name": "Fresh Emerald",
-      "image": "shade-110d7b9d7626fa.webp"
+      "image": "shade-110d7b9d7626fa.webp",
+      "swatchHex": "#117a78"
     },
     "ivory": {
       "name": "Ivory",
-      "image": "shade-4a9fa6a354fc4b.webp"
+      "image": "shade-4a9fa6a354fc4b.webp",
+      "swatchHex": "#a0916f"
     },
     "jeans": {
       "name": "Jeans",
-      "image": "shade-49cd7ae36a7c29.webp"
+      "image": "shade-49cd7ae36a7c29.webp",
+      "swatchHex": "#444d7a"
     },
     "kale": {
       "name": "Kale",
-      "image": "shade-d514e79b926b37.webp"
+      "image": "shade-d514e79b926b37.webp",
+      "swatchHex": "#5c4c45"
     },
     "lilac-grey": {
       "name": "Lilac Grey",
-      "image": "shade-0d114b23fa9837.webp"
+      "image": "shade-0d114b23fa9837.webp",
+      "swatchHex": "#b1a0af"
     },
     "mint": {
       "name": "Mint",
-      "image": "shade-a6744904dbfb9e.webp"
+      "image": "shade-a6744904dbfb9e.webp",
+      "swatchHex": "#75746b"
     },
     "dark-coffee": {
       "name": "Dark Coffee",
-      "image": "shade-e20003699c3591.webp"
+      "image": "shade-e20003699c3591.webp",
+      "swatchHex": "#231416"
     },
     "navy": {
       "name": "Navy",
-      "image": "shade-022bef774a1482.webp"
+      "image": "shade-022bef774a1482.webp",
+      "swatchHex": "#2a2f67"
     },
     "nude": {
       "name": "Nude",
-      "image": "shade-41c0e0356dead8.webp"
+      "image": "shade-41c0e0356dead8.webp",
+      "swatchHex": "#9a7b76"
     },
     "pine": {
       "name": "Pine",
-      "image": "shade-8ab726b90f9fca.webp"
+      "image": "shade-8ab726b90f9fca.webp",
+      "swatchHex": "#04596e"
     },
     "misty-grey": {
       "name": "Misty Grey",
-      "image": "shade-af75d3f5433ac5.webp"
+      "image": "shade-af75d3f5433ac5.webp",
+      "swatchHex": "#8d8b8c"
     },
     "silver": {
       "name": "Silver",
-      "image": "shade-e4f0f93097f7bc.webp"
+      "image": "shade-e4f0f93097f7bc.webp",
+      "swatchHex": "#826868"
     },
     "storm": {
       "name": "Storm",
-      "image": "shade-f94b954b20bec3.webp"
+      "image": "shade-f94b954b20bec3.webp",
+      "swatchHex": "#6f6064"
     },
     "red-cherry": {
       "name": "Red Cherry",
-      "image": "shade-15e52ea52239e7.webp"
+      "image": "shade-15e52ea52239e7.webp",
+      "swatchHex": "#4a0f28"
     },
     "wine": {
       "name": "Wine",
-      "image": "shade-b10667d6dfbeed.webp"
+      "image": "shade-b10667d6dfbeed.webp",
+      "swatchHex": "#7f274e"
     },
     "taro": {
       "name": "Taro",
-      "image": "shade-2e64f2cbba8578.webp"
+      "image": "shade-2e64f2cbba8578.webp",
+      "swatchHex": "#7f6080"
     },
     "fossil": {
       "name": "Fossil",
-      "image": "shade-99b73ac4232386.webp"
+      "image": "shade-99b73ac4232386.webp",
+      "swatchHex": "#a39294"
     }
   },
   "airtech-ultrasoft": {
     "black": {
       "name": "Black",
-      "image": "shade-1aa5e35aabe887.webp"
+      "image": "shade-1aa5e35aabe887.webp",
+      "swatchHex": "#1a1e28"
     },
     "dark-navy": {
       "name": "Dark Navy",
-      "image": "shade-5469b9da86788a.webp"
+      "image": "shade-5469b9da86788a.webp",
+      "swatchHex": "#080b23"
     },
     "dark-espreso": {
       "name": "Dark Espreso",
-      "image": "shade-76261419b62cc6.webp"
+      "image": "shade-76261419b62cc6.webp",
+      "swatchHex": "#b0a6ab"
     },
     "hazel": {
       "name": "Hazel",
-      "image": "shade-660bc087664f9d.webp"
+      "image": "shade-660bc087664f9d.webp",
+      "swatchHex": "#bfbbc4"
     },
     "latte": {
       "name": "Latte",
-      "image": "shade-53e6e2c2881d26.webp"
+      "image": "shade-53e6e2c2881d26.webp",
+      "swatchHex": "#d1ced1"
     },
     "flint": {
       "name": "Flint",
-      "image": "shade-4149f444d8951a.webp"
+      "image": "shade-4149f444d8951a.webp",
+      "swatchHex": "#d2d0dc"
     },
     "orchid": {
       "name": "Orchid",
-      "image": "shade-6b7f8c3ee15b17.webp"
+      "image": "shade-6b7f8c3ee15b17.webp",
+      "swatchHex": "#e2d8df"
     },
     "pink-nude": {
       "name": "Pink Nude",
-      "image": "shade-44e95137090f3e.webp"
+      "image": "shade-44e95137090f3e.webp",
+      "swatchHex": "#f1ecf0"
     }
   },
   "gana-instan": {
     "biscuit": {
       "name": "Biscuit",
-      "image": "shade-2f90cf599139fd.webp"
+      "image": "shade-2f90cf599139fd.webp",
+      "swatchHex": "#e0dde0"
     },
     "baby-pink": {
       "name": "Baby Pink",
-      "image": "shade-535f4d5c463902.webp"
+      "image": "shade-535f4d5c463902.webp",
+      "swatchHex": "#e1d5db"
     },
     "black": {
       "name": "Black",
-      "image": "shade-8834e9dc3ad5ce.webp"
+      "image": "shade-8834e9dc3ad5ce.webp",
+      "swatchHex": "#020204"
     },
     "mahogany": {
       "name": "Mahogany",
-      "image": "shade-56d33c3cd5553f.webp"
+      "image": "shade-56d33c3cd5553f.webp",
+      "swatchHex": "#0f0408"
     },
     "navy": {
       "name": "Navy",
-      "image": "shade-fae4d0e6d73c11.webp"
+      "image": "shade-fae4d0e6d73c11.webp",
+      "swatchHex": "#090b29"
     },
     "maroon": {
       "name": "Maroon",
-      "image": "shade-2305cc7482bc73.webp"
+      "image": "shade-2305cc7482bc73.webp",
+      "swatchHex": "#30091a"
     },
     "ash": {
       "name": "Ash",
-      "image": "shade-9a8235fe40f480.webp"
+      "image": "shade-9a8235fe40f480.webp",
+      "swatchHex": "#38353e"
     },
     "smoke": {
       "name": "Smoke",
-      "image": "shade-134ed160407a4f.webp"
+      "image": "shade-134ed160407a4f.webp",
+      "swatchHex": "#7f7d80"
     },
     "dark-milo": {
       "name": "Dark Milo",
-      "image": "shade-ca83356ed84b47.webp"
+      "image": "shade-ca83356ed84b47.webp",
+      "swatchHex": "#7b6a6f"
     },
     "frappe": {
       "name": "Frappe",
-      "image": "shade-8e1e84e81330d2.webp"
+      "image": "shade-8e1e84e81330d2.webp",
+      "swatchHex": "#958a89"
     },
     "hazel": {
       "name": "Hazel",
-      "image": "shade-762dd6e411f956.webp"
+      "image": "shade-762dd6e411f956.webp",
+      "swatchHex": "#a1908f"
     },
     "mocca": {
       "name": "Mocca",
-      "image": "shade-4f07779a3140c5.webp"
+      "image": "shade-4f07779a3140c5.webp",
+      "swatchHex": "#8c7d78"
     },
     "deep-oat": {
       "name": "Deep Oat",
-      "image": "shade-ccbc6c3c8758bb.webp"
+      "image": "shade-ccbc6c3c8758bb.webp",
+      "swatchHex": "#cdc1b8"
     },
     "storm": {
       "name": "Storm",
-      "image": "shade-87aa17887902c8.webp"
+      "image": "shade-87aa17887902c8.webp",
+      "swatchHex": "#8d878d"
     },
     "ekspreso": {
       "name": "Ekspreso",
-      "image": "shade-aeec15042def61.webp"
+      "image": "shade-aeec15042def61.webp",
+      "swatchHex": "#8b8382"
     },
     "creamy-beige": {
       "name": "Creamy Beige",
-      "image": "shade-4e89edf8850349.webp"
+      "image": "shade-4e89edf8850349.webp",
+      "swatchHex": "#a49c95"
     },
     "earth": {
       "name": "Earth",
-      "image": "shade-c282201c8e2c69.webp"
+      "image": "shade-c282201c8e2c69.webp",
+      "swatchHex": "#96918b"
     },
     "beige": {
       "name": "Beige",
-      "image": "shade-61c572344a0c36.webp"
+      "image": "shade-61c572344a0c36.webp",
+      "swatchHex": "#a3a093"
     },
     "vanila": {
       "name": "Vanila",
-      "image": "shade-d98c0abb7aba2b.webp"
+      "image": "shade-d98c0abb7aba2b.webp",
+      "swatchHex": "#e7e6e7"
     },
     "soft-apricot": {
       "name": "Soft Apricot",
-      "image": "shade-75eb772b8782a7.webp"
+      "image": "shade-75eb772b8782a7.webp",
+      "swatchHex": "#c4b5b4"
     },
     "pink-nude": {
       "name": "Pink Nude",
-      "image": "shade-b7b02a49a9a1a8.webp"
+      "image": "shade-b7b02a49a9a1a8.webp",
+      "swatchHex": "#d1c7cf"
     },
     "nude": {
       "name": "Nude",
-      "image": "shade-28b6148cf1d7ad.webp"
+      "image": "shade-28b6148cf1d7ad.webp",
+      "swatchHex": "#dbd6d9"
     },
     "butter-cream": {
       "name": "Butter Cream",
-      "image": "shade-d8ada83c1802e5.webp"
+      "image": "shade-d8ada83c1802e5.webp",
+      "swatchHex": "#f3f5f2"
     },
     "tea-flower": {
       "name": "Tea Flower",
-      "image": "shade-322396bd02d8bd.webp"
+      "image": "shade-322396bd02d8bd.webp",
+      "swatchHex": "#dfdbd7"
     }
   },
   "printed-viscose": {
@@ -700,589 +821,732 @@
   "bamboo-spandex": {
     "creamy-latte": {
       "name": "Creamy Latte",
-      "image": "shade-2b1e072ce12cfd.webp"
+      "image": "shade-2b1e072ce12cfd.webp",
+      "swatchHex": "#cfc1ba"
     },
     "blush": {
       "name": "Blush",
-      "image": "shade-db1054e62c9b87.webp"
+      "image": "shade-db1054e62c9b87.webp",
+      "swatchHex": "#d2b9b0"
     },
     "maroon": {
       "name": "Maroon",
-      "image": "shade-52468c5c6a990a.webp"
+      "image": "shade-52468c5c6a990a.webp",
+      "swatchHex": "#340412"
     },
     "oat": {
       "name": "Oat",
-      "image": "shade-4e238e32a47285.webp"
+      "image": "shade-4e238e32a47285.webp",
+      "swatchHex": "#bca697"
     },
     "vanilla": {
       "name": "Vanilla",
-      "image": "shade-c40ccf5e2bbbf7.webp"
+      "image": "shade-c40ccf5e2bbbf7.webp",
+      "swatchHex": "#cfbfb1"
     },
     "butter-cream": {
       "name": "Butter Cream",
-      "image": "shade-de93b3c0416d19.webp"
+      "image": "shade-de93b3c0416d19.webp",
+      "swatchHex": "#d6c8aa"
     },
     "storm": {
       "name": "Storm",
-      "image": "shade-587606931bfdd7.webp"
+      "image": "shade-587606931bfdd7.webp",
+      "swatchHex": "#8c817e"
     },
     "smoke": {
       "name": "Smoke",
-      "image": "shade-8deefe9931576f.webp"
+      "image": "shade-8deefe9931576f.webp",
+      "swatchHex": "#8d817e"
     },
     "milo": {
       "name": "Milo",
-      "image": "shade-c903469b4c212c.webp"
+      "image": "shade-c903469b4c212c.webp",
+      "swatchHex": "#a8876c"
     },
     "grey": {
       "name": "Grey",
-      "image": "shade-be135bf4c40959.webp"
+      "image": "shade-be135bf4c40959.webp",
+      "swatchHex": "#b2aba2"
     },
     "frappe": {
       "name": "Frappe",
-      "image": "shade-58067099076e18.webp"
+      "image": "shade-58067099076e18.webp",
+      "swatchHex": "#ab8d72"
     },
     "navy": {
       "name": "Navy",
-      "image": "shade-a3791fb00c051c.webp"
+      "image": "shade-a3791fb00c051c.webp",
+      "swatchHex": "#0c103c"
     },
     "dark-milo": {
       "name": "Dark Milo",
-      "image": "shade-bb0d88a7ee344e.webp"
+      "image": "shade-bb0d88a7ee344e.webp",
+      "swatchHex": "#97786c"
     },
     "black": {
       "name": "Black",
-      "image": "shade-bd1d99dba10fa1.webp"
+      "image": "shade-bd1d99dba10fa1.webp",
+      "swatchHex": "#090a13"
     },
     "deep-beige": {
       "name": "Deep Beige",
-      "image": "shade-1d2a5efd2e6cc7.webp"
+      "image": "shade-1d2a5efd2e6cc7.webp",
+      "swatchHex": "#b5a58d"
     },
     "tea-rose": {
       "name": "Tea Rose",
-      "image": "shade-40badc0d5a1ee9.webp"
+      "image": "shade-40badc0d5a1ee9.webp",
+      "swatchHex": "#b8a292"
     },
     "earth": {
       "name": "Earth",
-      "image": "shade-b7b7bec96554c2.webp"
+      "image": "shade-b7b7bec96554c2.webp",
+      "swatchHex": "#ac9b8e"
     },
     "creamy-rose": {
       "name": "Creamy Rose",
-      "image": "shade-2f9fb7e09e80cb.webp"
+      "image": "shade-2f9fb7e09e80cb.webp",
+      "swatchHex": "#b79b8a"
     },
     "ash": {
       "name": "Ash",
-      "image": "shade-27f5e28b58f996.webp"
+      "image": "shade-27f5e28b58f996.webp",
+      "swatchHex": "#3f3440"
     },
     "mahogany": {
       "name": "Mahogany",
-      "image": "shade-d48c1f62660c40.webp"
+      "image": "shade-d48c1f62660c40.webp",
+      "swatchHex": "#1e080d"
     }
   },
   "zoya-instan": {
     "wine": {
       "name": "Wine",
-      "image": "shade-d76e11f7f7fcc2.webp"
+      "image": "shade-d76e11f7f7fcc2.webp",
+      "swatchHex": "#600d30"
     },
     "smoke": {
       "name": "Smoke",
-      "image": "shade-b6d09f44cac4b4.webp"
+      "image": "shade-b6d09f44cac4b4.webp",
+      "swatchHex": "#aa9898"
     },
     "dark-milo": {
       "name": "Dark Milo",
-      "image": "shade-f365367d08d794.webp"
+      "image": "shade-f365367d08d794.webp",
+      "swatchHex": "#8e7063"
     },
     "earth": {
       "name": "Earth",
-      "image": "shade-9599f3a03213fe.webp"
+      "image": "shade-9599f3a03213fe.webp",
+      "swatchHex": "#ad9c9c"
     },
     "frappe": {
       "name": "Frappe",
-      "image": "shade-5982f529d95734.webp"
+      "image": "shade-5982f529d95734.webp",
+      "swatchHex": "#7e6453"
     },
     "deep-almond": {
       "name": "Deep Almond",
-      "image": "shade-08292cc829fb91.webp"
+      "image": "shade-08292cc829fb91.webp",
+      "swatchHex": "#987963"
     },
     "fossil": {
       "name": "Fossil",
-      "image": "shade-87ceca59578ef1.webp"
+      "image": "shade-87ceca59578ef1.webp",
+      "swatchHex": "#736260"
     },
     "dark-latte": {
       "name": "Dark Latte",
-      "image": "shade-4d0109b649b2c9.webp"
+      "image": "shade-4d0109b649b2c9.webp",
+      "swatchHex": "#9a7562"
     },
     "brownie": {
       "name": "Brownie",
-      "image": "shade-f57851bb2139f8.webp"
+      "image": "shade-f57851bb2139f8.webp",
+      "swatchHex": "#402515"
     },
     "mahogany": {
       "name": "Mahogany",
-      "image": "shade-26a46f05a93695.webp"
+      "image": "shade-26a46f05a93695.webp",
+      "swatchHex": "#1b0b0c"
     },
     "deep-beige": {
       "name": "Deep Beige",
-      "image": "shade-87df3d827de586.webp"
+      "image": "shade-87df3d827de586.webp",
+      "swatchHex": "#a8968c"
     },
     "soft-lilac": {
       "name": "Soft Lilac",
-      "image": "shade-22963beb14efae.webp"
+      "image": "shade-22963beb14efae.webp",
+      "swatchHex": "#b2919c"
     }
   },
   "bamboo-slip-on": {
     "milo": {
       "name": "Milo",
-      "image": "shade-059b035e3db08d.webp"
+      "image": "shade-059b035e3db08d.webp",
+      "swatchHex": "#946c5a"
     },
     "creamy-latte": {
       "name": "Creamy Latte",
-      "image": "shade-6e40bec0232ab9.webp"
+      "image": "shade-6e40bec0232ab9.webp",
+      "swatchHex": "#b09b8f"
     },
     "butter-cream": {
       "name": "Butter Cream",
-      "image": "shade-65d09d9f5637cf.webp"
+      "image": "shade-65d09d9f5637cf.webp",
+      "swatchHex": "#c4b9af"
     },
     "dark-milo": {
       "name": "Dark Milo",
-      "image": "shade-04ca3889ead979.webp"
+      "image": "shade-04ca3889ead979.webp",
+      "swatchHex": "#866159"
     },
     "smoke": {
       "name": "Smoke",
-      "image": "shade-f69ff9c3e89896.webp"
+      "image": "shade-f69ff9c3e89896.webp",
+      "swatchHex": "#776e71"
     },
     "black": {
       "name": "Black",
-      "image": "shade-caf0d2a61db10c.webp"
+      "image": "shade-caf0d2a61db10c.webp",
+      "swatchHex": "#0b0911"
     },
     "navy": {
       "name": "Navy",
-      "image": "shade-a312851ce3c5af.webp"
+      "image": "shade-a312851ce3c5af.webp",
+      "swatchHex": "#080823"
     },
     "mahogany": {
       "name": "Mahogany",
-      "image": "shade-fa417d9627650d.webp"
+      "image": "shade-fa417d9627650d.webp",
+      "swatchHex": "#26080d"
     },
     "dark-oat": {
       "name": "Dark Oat",
-      "image": "shade-04db6d2507af67.webp"
+      "image": "shade-04db6d2507af67.webp",
+      "swatchHex": "#ccb4af"
     },
     "blue-sky": {
       "name": "Blue Sky",
-      "image": "shade-7cdb1519e62d6c.webp"
+      "image": "shade-7cdb1519e62d6c.webp",
+      "swatchHex": "#9399b3"
     },
     "ash": {
       "name": "Ash",
-      "image": "shade-a8ac5d805f3dd2.webp"
+      "image": "shade-a8ac5d805f3dd2.webp",
+      "swatchHex": "#241720"
     },
     "cookie": {
       "name": "Cookie",
-      "image": "shade-3b8d1da7491b33.webp"
+      "image": "shade-3b8d1da7491b33.webp",
+      "swatchHex": "#bda39b"
     },
     "deep-beige": {
       "name": "Deep Beige",
-      "image": "shade-97b16db7b3694f.webp"
+      "image": "shade-97b16db7b3694f.webp",
+      "swatchHex": "#bda29a"
     },
     "frappe": {
       "name": "Frappe",
-      "image": "shade-9d2422cf2a2ecb.webp"
+      "image": "shade-9d2422cf2a2ecb.webp",
+      "swatchHex": "#8a6d5f"
     },
     "creamy-beige": {
       "name": "Creamy Beige",
-      "image": "shade-b0316f7a51a8d8.webp"
+      "image": "shade-b0316f7a51a8d8.webp",
+      "swatchHex": "#b6a59b"
     },
     "soft-apricot": {
       "name": "Soft Apricot",
-      "image": "shade-bfd8a059f317ac.webp"
+      "image": "shade-bfd8a059f317ac.webp",
+      "swatchHex": "#cfb7ab"
     },
     "tea-flower": {
       "name": "Tea Flower",
-      "image": "shade-3a4a2944561b72.webp"
+      "image": "shade-3a4a2944561b72.webp",
+      "swatchHex": "#d4d5ce"
     },
     "misty-grey": {
       "name": "Misty Grey",
-      "image": "shade-d06a6c38e0cf95.webp"
+      "image": "shade-d06a6c38e0cf95.webp",
+      "swatchHex": "#b3adb3"
     },
     "earth": {
       "name": "Earth",
-      "image": "shade-e5b1ec298882ea.webp"
+      "image": "shade-e5b1ec298882ea.webp",
+      "swatchHex": "#aa9798"
     }
   },
   "paris-japan": {
     "tender-stem": {
       "name": "Tender Stem",
-      "image": "shade-c9601b4363fd6f.webp"
+      "image": "shade-c9601b4363fd6f.webp",
+      "swatchHex": "#aab9a8"
     },
     "white": {
       "name": "White",
-      "image": "shade-33ee4250a972ca.webp"
+      "image": "shade-33ee4250a972ca.webp",
+      "swatchHex": "#c0c1be"
     },
     "biscuit": {
       "name": "Biscuit",
-      "image": "shade-c31bdab8cc5679.webp"
+      "image": "shade-c31bdab8cc5679.webp",
+      "swatchHex": "#8c7f79"
     },
     "sheer-blue": {
       "name": "Sheer Blue",
-      "image": "shade-3220232ef275bd.webp"
+      "image": "shade-3220232ef275bd.webp",
+      "swatchHex": "#596084"
     },
     "brownie": {
       "name": "Brownie",
-      "image": "shade-6ad47f2a47a731.webp"
+      "image": "shade-6ad47f2a47a731.webp",
+      "swatchHex": "#663d42"
     },
     "butter-cream": {
       "name": "Butter Cream",
-      "image": "shade-1d3ac55572b1cd.webp"
+      "image": "shade-1d3ac55572b1cd.webp",
+      "swatchHex": "#bfb8a3"
     },
     "black": {
       "name": "Black",
-      "image": "shade-ab2f0fa76df881.webp"
+      "image": "shade-ab2f0fa76df881.webp",
+      "swatchHex": "#110d13"
     },
     "dim-grey": {
       "name": "Dim Grey",
-      "image": "shade-6782675b8229c5.webp"
+      "image": "shade-6782675b8229c5.webp",
+      "swatchHex": "#7b6d73"
     },
     "navy": {
       "name": "Navy",
-      "image": "shade-a7584ba2428ad1.webp"
+      "image": "shade-a7584ba2428ad1.webp",
+      "swatchHex": "#210d32"
     },
     "powder-pink": {
       "name": "Powder Pink",
-      "image": "shade-8a436f563d6252.webp"
+      "image": "shade-8a436f563d6252.webp",
+      "swatchHex": "#b0809c"
     },
     "olive-branch": {
       "name": "Olive Branch",
-      "image": "shade-5e3b98743dc7d3.webp"
+      "image": "shade-5e3b98743dc7d3.webp",
+      "swatchHex": "#544337"
     },
     "fresh-milo": {
       "name": "Fresh Milo",
-      "image": "shade-80af58657612c8.webp"
+      "image": "shade-80af58657612c8.webp",
+      "swatchHex": "#57352b"
     },
     "burgundy": {
       "name": "Burgundy",
-      "image": "shade-253edfa6b43cf5.webp"
+      "image": "shade-253edfa6b43cf5.webp",
+      "swatchHex": "#4d1930"
     },
     "almond-beige": {
       "name": "Almond Beige",
-      "image": "shade-d854c907f2891b.webp"
+      "image": "shade-d854c907f2891b.webp",
+      "swatchHex": "#5e473b"
     },
     "creamy-beige": {
       "name": "Creamy Beige",
-      "image": "shade-6765c56d2b16be.webp"
+      "image": "shade-6765c56d2b16be.webp",
+      "swatchHex": "#a89389"
     },
     "lavender": {
       "name": "Lavender",
-      "image": "shade-2f433883adb774.webp"
+      "image": "shade-2f433883adb774.webp",
+      "swatchHex": "#725983"
     },
     "silver-pine": {
       "name": "Silver Pine",
-      "image": "shade-581ca18bf8655c.webp"
+      "image": "shade-581ca18bf8655c.webp",
+      "swatchHex": "#525458"
     },
     "ash": {
       "name": "Ash",
-      "image": "shade-abaac8b17d5612.webp"
+      "image": "shade-abaac8b17d5612.webp",
+      "swatchHex": "#755d60"
     },
     "deep-almond": {
       "name": "Deep Almond",
-      "image": "shade-dba7609bd425ed.webp"
+      "image": "shade-dba7609bd425ed.webp",
+      "swatchHex": "#a98b79"
     },
     "charcoal": {
       "name": "Charcoal",
-      "image": "shade-549b8b78b6c0e1.webp"
+      "image": "shade-549b8b78b6c0e1.webp",
+      "swatchHex": "#9d938c"
     }
   },
   "hawa-instan": {
     "black": {
       "name": "Black",
-      "image": "shade-4b68256991d7f8.webp"
+      "image": "shade-4b68256991d7f8.webp",
+      "swatchHex": "#100b11"
     },
     "tea-flower": {
       "name": "Tea Flower",
-      "image": "shade-3f08a928e27250.webp"
+      "image": "shade-3f08a928e27250.webp",
+      "swatchHex": "#d7d3c8"
     },
     "creamy-beige": {
       "name": "Creamy Beige",
-      "image": "shade-712dc539b5208e.webp"
+      "image": "shade-712dc539b5208e.webp",
+      "swatchHex": "#c3aaa6"
     },
     "butter-cream": {
       "name": "Butter Cream",
-      "image": "shade-79ab0a8fb09ed9.webp"
+      "image": "shade-79ab0a8fb09ed9.webp",
+      "swatchHex": "#dccbbc"
     },
     "navy": {
       "name": "Navy",
-      "image": "shade-999f13e2fd2b38.webp"
+      "image": "shade-999f13e2fd2b38.webp",
+      "swatchHex": "#2c1f58"
     },
     "creamy-latte": {
       "name": "Creamy Latte",
-      "image": "shade-22262ecfebcd97.webp"
+      "image": "shade-22262ecfebcd97.webp",
+      "swatchHex": "#c9bab2"
     },
     "misty-grey": {
       "name": "Misty Grey",
-      "image": "shade-0066ba17cc05ab.webp"
+      "image": "shade-0066ba17cc05ab.webp",
+      "swatchHex": "#d2c8d0"
     },
     "maroon": {
       "name": "Maroon",
-      "image": "shade-5fd97b18782d7b.webp"
+      "image": "shade-5fd97b18782d7b.webp",
+      "swatchHex": "#450416"
     },
     "milo": {
       "name": "Milo",
-      "image": "shade-88feb8aba8ca4c.webp"
+      "image": "shade-88feb8aba8ca4c.webp",
+      "swatchHex": "#c7937b"
     },
     "mahogany": {
       "name": "Mahogany",
-      "image": "shade-fe4e418c9a0c41.webp"
+      "image": "shade-fe4e418c9a0c41.webp",
+      "swatchHex": "#1a0608"
     },
     "deep-beige": {
       "name": "Deep Beige",
-      "image": "shade-ee6d687d2cc07b.webp"
+      "image": "shade-ee6d687d2cc07b.webp",
+      "swatchHex": "#d3bdb5"
     },
     "blue-sky": {
       "name": "Blue Sky",
-      "image": "shade-1901d7701729e5.webp"
+      "image": "shade-1901d7701729e5.webp",
+      "swatchHex": "#b1b3ce"
     },
     "frappe": {
       "name": "Frappe",
-      "image": "shade-948114da78a86b.webp"
+      "image": "shade-948114da78a86b.webp",
+      "swatchHex": "#7c5f51"
     },
     "dark-milo": {
       "name": "Dark Milo",
-      "image": "shade-46cf4e5add2af5.webp"
+      "image": "shade-46cf4e5add2af5.webp",
+      "swatchHex": "#9e7068"
     },
     "cookie": {
       "name": "Cookie",
-      "image": "shade-00d62b2ea7f354.webp"
+      "image": "shade-00d62b2ea7f354.webp",
+      "swatchHex": "#be9a91"
     },
     "earth": {
       "name": "Earth",
-      "image": "shade-993f78fb48c8a4.webp"
+      "image": "shade-993f78fb48c8a4.webp",
+      "swatchHex": "#988686"
     },
     "ash": {
       "name": "Ash",
-      "image": "shade-766c60ca25d44a.webp"
+      "image": "shade-766c60ca25d44a.webp",
+      "swatchHex": "#33262f"
     },
     "almond-beige": {
       "name": "Almond Beige",
-      "image": "shade-f9e2d182c4a7c0.webp"
+      "image": "shade-f9e2d182c4a7c0.webp",
+      "swatchHex": "#aa9988"
     },
     "soft-apricot": {
       "name": "Soft Apricot",
-      "image": "shade-38936c27f95f0b.webp"
+      "image": "shade-38936c27f95f0b.webp",
+      "swatchHex": "#d9bcb1"
     },
     "dark-beige": {
       "name": "Dark Beige",
-      "image": "shade-7b0610fc9334b3.webp"
+      "image": "shade-7b0610fc9334b3.webp",
+      "swatchHex": "#aca097"
     }
   },
   "viscose-highlight": {
     "charcoal-black": {
       "name": "Charcoal Black",
-      "image": "shade-ab126bb536ae67.webp"
+      "image": "shade-ab126bb536ae67.webp",
+      "swatchHex": "#191b20"
     },
     "wine": {
       "name": "Wine",
-      "image": "shade-1e9f1b808dc87b.webp"
+      "image": "shade-1e9f1b808dc87b.webp",
+      "swatchHex": "#442b54"
     },
     "saddle-brown": {
       "name": "Saddle Brown",
-      "image": "shade-aee1db035d1327.webp"
+      "image": "shade-aee1db035d1327.webp",
+      "swatchHex": "#3a393c"
     },
     "deep-iron": {
       "name": "Deep Iron",
-      "image": "shade-5695ea0f6a9a31.webp"
+      "image": "shade-5695ea0f6a9a31.webp",
+      "swatchHex": "#45484f"
     },
     "granola": {
       "name": "Granola",
-      "image": "shade-23e03b4336e33d.webp"
+      "image": "shade-23e03b4336e33d.webp",
+      "swatchHex": "#bfc1c0"
     },
     "walnut": {
       "name": "Walnut",
-      "image": "shade-06c833e2d37077.webp"
+      "image": "shade-06c833e2d37077.webp",
+      "swatchHex": "#837b75"
     },
     "cham-bridge-oak": {
       "name": "Cham Bridge Oak",
-      "image": "shade-96382616fc34e4.webp"
+      "image": "shade-96382616fc34e4.webp",
+      "swatchHex": "#c2b1a4"
     },
     "denim": {
       "name": "Denim",
-      "image": "shade-bda1c23d7c1743.webp"
+      "image": "shade-bda1c23d7c1743.webp",
+      "swatchHex": "#818fab"
     },
     "roasted-choco": {
       "name": "Roasted Choco",
-      "image": "shade-76857052e38f54.webp"
+      "image": "shade-76857052e38f54.webp",
+      "swatchHex": "#aca7a7"
     },
     "dark-latte": {
       "name": "Dark Latte",
-      "image": "shade-199dae71283384.webp"
+      "image": "shade-199dae71283384.webp",
+      "swatchHex": "#b4ada4"
     },
     "oat": {
       "name": "Oat",
-      "image": "shade-fee7fc60796497.webp"
+      "image": "shade-fee7fc60796497.webp",
+      "swatchHex": "#bfb9b5"
     },
     "pearl": {
       "name": "Pearl",
-      "image": "shade-6beb6e88fc8f4c.webp"
+      "image": "shade-6beb6e88fc8f4c.webp",
+      "swatchHex": "#e0e4eb"
     },
     "ivory": {
       "name": "Ivory",
-      "image": "shade-122bcd9c33438c.webp"
+      "image": "shade-122bcd9c33438c.webp",
+      "swatchHex": "#e9efeb"
     },
     "butter-yellow": {
       "name": "Butter Yellow",
-      "image": "shade-7ac83a2ae1fc0e.webp"
+      "image": "shade-7ac83a2ae1fc0e.webp",
+      "swatchHex": "#fbfae7"
     }
   },
   "aisha-khiban": {
     "brownie": {
       "name": "Brownie",
-      "image": "shade-3b657d31a72f47.webp"
+      "image": "shade-3b657d31a72f47.webp",
+      "swatchHex": "#855859"
     },
     "oat": {
       "name": "Oat",
-      "image": "shade-4c21aa01b45c71.webp"
+      "image": "shade-4c21aa01b45c71.webp",
+      "swatchHex": "#bca5a1"
     },
     "milk-tea": {
       "name": "Milk Tea",
-      "image": "shade-f7fc1c5ff7ef37.webp"
+      "image": "shade-f7fc1c5ff7ef37.webp",
+      "swatchHex": "#a1897f"
     },
     "ash-powder": {
       "name": "Ash Powder",
-      "image": "shade-cb8b16210cd998.webp"
+      "image": "shade-cb8b16210cd998.webp",
+      "swatchHex": "#9e898d"
     },
     "biscuit": {
       "name": "Biscuit",
-      "image": "shade-c66b6051a1090a.webp"
+      "image": "shade-c66b6051a1090a.webp",
+      "swatchHex": "#c2b6b4"
     },
     "almond-beige": {
       "name": "Almond Beige",
-      "image": "shade-a22ed0e113a799.webp"
+      "image": "shade-a22ed0e113a799.webp",
+      "swatchHex": "#9c8f87"
     },
     "soft-lilac": {
       "name": "Soft Lilac",
-      "image": "shade-afc8c8614d4a04.webp"
+      "image": "shade-afc8c8614d4a04.webp",
+      "swatchHex": "#c2a8b3"
     },
     "dim-grey": {
       "name": "Dim Grey",
-      "image": "shade-8f834e52ec57b3.webp"
+      "image": "shade-8f834e52ec57b3.webp",
+      "swatchHex": "#795d60"
     },
     "cinnamon": {
       "name": "Cinnamon",
-      "image": "shade-168bd08340cc16.webp"
+      "image": "shade-168bd08340cc16.webp",
+      "swatchHex": "#b28894"
     },
     "heather": {
       "name": "Heather",
-      "image": "shade-7f203238412bbf.webp"
+      "image": "shade-7f203238412bbf.webp",
+      "swatchHex": "#6c6ebd"
     },
     "maroon": {
       "name": "Maroon",
-      "image": "shade-84ea161b008761.webp"
+      "image": "shade-84ea161b008761.webp",
+      "swatchHex": "#b03e65"
     },
     "blush": {
       "name": "Blush",
-      "image": "shade-06d59fdd1a5a6b.webp"
+      "image": "shade-06d59fdd1a5a6b.webp",
+      "swatchHex": "#efcad5"
     },
     "flint": {
       "name": "Flint",
-      "image": "shade-2f4eaebe1dd529.webp"
+      "image": "shade-2f4eaebe1dd529.webp",
+      "swatchHex": "#978591"
     },
     "storm": {
       "name": "Storm",
-      "image": "shade-cc6d922e44d1e6.webp"
+      "image": "shade-cc6d922e44d1e6.webp",
+      "swatchHex": "#8b7f8e"
     },
     "black": {
       "name": "Black",
-      "image": "shade-54b40bd710b416.webp"
+      "image": "shade-54b40bd710b416.webp",
+      "swatchHex": "#1e1721"
     },
     "charcoal": {
       "name": "Charcoal",
-      "image": "shade-12413679e6af67.webp"
+      "image": "shade-12413679e6af67.webp",
+      "swatchHex": "#ac9c94"
     },
     "mocca-blush": {
       "name": "Mocca Blush",
-      "image": "shade-2cd7549b17a7d3.webp"
+      "image": "shade-2cd7549b17a7d3.webp",
+      "swatchHex": "#bc858d"
     },
     "vanilla": {
       "name": "Vanilla",
-      "image": "shade-f0c3242dd52967.webp"
+      "image": "shade-f0c3242dd52967.webp",
+      "swatchHex": "#d5c1c7"
     },
     "coffee": {
       "name": "Coffee",
-      "image": "shade-72141a795cdd78.webp"
+      "image": "shade-72141a795cdd78.webp",
+      "swatchHex": "#3e201d"
     },
     "palm-sugar": {
       "name": "Palm Sugar",
-      "image": "shade-560b96bf063a54.webp"
+      "image": "shade-560b96bf063a54.webp",
+      "swatchHex": "#80635b"
     }
   },
   "hayla-khiban": {
     "misty-grey": {
       "name": "Misty Grey",
-      "image": "shade-6ce9cf5b25ac47.webp"
+      "image": "shade-6ce9cf5b25ac47.webp",
+      "swatchHex": "#a79aa2"
     },
     "soft-lilac": {
       "name": "Soft Lilac",
-      "image": "shade-edbbfa05d19dec.webp"
+      "image": "shade-edbbfa05d19dec.webp",
+      "swatchHex": "#c1a4ad"
     },
     "dark-milo": {
       "name": "Dark Milo",
-      "image": "shade-a68bc92e2b9b9d.webp"
+      "image": "shade-a68bc92e2b9b9d.webp",
+      "swatchHex": "#a17971"
     },
     "navy": {
       "name": "Navy",
-      "image": "shade-66d77d71c2136d.webp"
+      "image": "shade-66d77d71c2136d.webp",
+      "swatchHex": "#151327"
     },
     "beige": {
       "name": "Beige",
-      "image": "shade-6f438feaaad819.webp"
+      "image": "shade-6f438feaaad819.webp",
+      "swatchHex": "#c4b6ad"
     },
     "earth": {
       "name": "Earth",
-      "image": "shade-3d8e1885fffdc0.webp"
+      "image": "shade-3d8e1885fffdc0.webp",
+      "swatchHex": "#c3b4b0"
     },
     "mahogany": {
       "name": "Mahogany",
-      "image": "shade-2ce18ba88099f5.webp"
+      "image": "shade-2ce18ba88099f5.webp",
+      "swatchHex": "#250a11"
     },
     "biscuit": {
       "name": "Biscuit",
-      "image": "shade-e434e27b463e08.webp"
+      "image": "shade-e434e27b463e08.webp",
+      "swatchHex": "#9d9391"
     },
     "storm": {
       "name": "Storm",
-      "image": "shade-a86f5cda96b66a.webp"
+      "image": "shade-a86f5cda96b66a.webp",
+      "swatchHex": "#aea3aa"
     },
     "dusty": {
       "name": "Dusty",
-      "image": "shade-8abcf52c41fc41.webp"
+      "image": "shade-8abcf52c41fc41.webp",
+      "swatchHex": "#b9888d"
     },
     "midnight": {
       "name": "Midnight",
-      "image": "shade-f9964da889c265.webp"
+      "image": "shade-f9964da889c265.webp",
+      "swatchHex": "#211627"
     },
     "sand": {
       "name": "Sand",
-      "image": "shade-d5c0ad3e048a8f.webp"
+      "image": "shade-d5c0ad3e048a8f.webp",
+      "swatchHex": "#b29688"
     },
     "deep-almond": {
       "name": "Deep Almond",
-      "image": "shade-f9cde5ca6c3fde.webp"
+      "image": "shade-f9cde5ca6c3fde.webp",
+      "swatchHex": "#867366"
     },
     "creamy-latte": {
       "name": "Creamy Latte",
-      "image": "shade-ca4d6d763a3fc0.webp"
+      "image": "shade-ca4d6d763a3fc0.webp",
+      "swatchHex": "#cbb4aa"
     },
     "olive": {
       "name": "Olive",
-      "image": "shade-faf80700cfe002.webp"
+      "image": "shade-faf80700cfe002.webp",
+      "swatchHex": "#805c4e"
     },
     "almond-beige": {
       "name": "Almond Beige",
-      "image": "shade-2b836acb33c391.webp"
+      "image": "shade-2b836acb33c391.webp",
+      "swatchHex": "#9d8771"
     },
     "butter-cream": {
       "name": "Butter Cream",
-      "image": "shade-13d1aee7eee9c3.webp"
+      "image": "shade-13d1aee7eee9c3.webp",
+      "swatchHex": "#b1a49a"
     },
     "nude": {
       "name": "Nude",
-      "image": "shade-2d6ab9adc6d312.webp"
+      "image": "shade-2d6ab9adc6d312.webp",
+      "swatchHex": "#cbb1ab"
     }
   },
   "mukena-armani": {
@@ -1408,21 +1672,25 @@
   "lea-oval-khiban": {
     "putih-foto": {
       "name": "Putih · sesuai foto",
-      "image": "lea-oval-khiban.webp"
+      "image": "lea-oval-khiban.webp",
+      "swatchHex": "#e0dbd7"
     },
     "pink-foto": {
       "name": "Pink · sesuai foto",
-      "image": "lea-oval-khiban-rose.webp"
+      "image": "lea-oval-khiban-rose.webp",
+      "swatchHex": "#e9d4d7"
     }
   },
   "zea-sport-instan": {
     "pink-foto": {
       "name": "Pink · sesuai foto",
-      "image": "zea-sport-instan.webp"
+      "image": "zea-sport-instan.webp",
+      "swatchHex": "#b38f92"
     },
     "taupe-foto": {
       "name": "Taupe · sesuai foto",
-      "image": "zea-sport-instan-alt.webp"
+      "image": "zea-sport-instan-alt.webp",
+      "swatchHex": "#756661"
     }
   },
   "inner-tali": {},

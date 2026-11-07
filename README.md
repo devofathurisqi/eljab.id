@@ -21,6 +21,8 @@ Pencarian, filter kategori/warna/harga, urutan, galeri/zoom, semua varian, favor
 
 ## Brand dan produksi
 
+Audit lanjutan warna tombol: `catalog/SWATCH-AUDIT.md` dan `swatch-audit.json`. Tombol memakai sampel kain yang diperiksa melalui `variantSwatch()`; warna perkiraan pada data lama tidak dipakai untuk UI. Validasi tambahan: `python scripts/verify-swatches.py` dengan Pillow.
+
 Logo asli yang diberikan pengguna: `public/assets/brand/official-logo.jpeg`. Navbar mengikuti warna latar logo. Revisi 6 November 2026 menambahkan tiga ilustrasi botani SVG asli: rangkaian mawar, tangkai bunga, dan ornamen memanjang dalam nuansa dusty rose, ivory, dan sage. Arahan desain dan prompt kerja: `docs/DESIGN-BRIEF.md`. Catatan validasi: `qa/RESULTS.md`.
 
 Repository: https://github.com/devofathurisqi/eljab.id.git — branch `prod`. Vercel: preset Vite, root repository, build `npm run build`, output `dist`. Set `SITE_URL` ke origin domain produksi yang benar untuk canonical dan sitemap; domain tidak ditebak. Halaman produk diprarender ke direktori statis, termasuk `404.html`.
