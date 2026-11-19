@@ -1,0 +1,247 @@
+{
+  "paris-legend": {
+    "shade-38f9153bf63a64.webp": {
+      "series": "Paris Legend",
+      "choices": {
+        "burgundy": "Burgundy",
+        "blush": "Blush",
+        "almond": "Almond",
+        "pink-salt": "Pink Salt",
+        "espreso": "Espreso",
+        "khaki": "Khaki",
+        "biscuit": "Biscuit"
+      }
+    }
+  },
+  "printed-viscose": {
+    "shade-3da33886becf64.webp": {
+      "series": "Cloudy",
+      "choices": {
+        "cloudy-pinky-malt": "Cloudy — Pinky Malt",
+        "cloudy-midnight": "Cloudy — Midnight",
+        "cloudy-choco-malt": "Cloudy — Choco Malt",
+        "cloudy-blue-sky": "Cloudy — Blue Sky"
+      }
+    },
+    "shade-02bc16bd072580.webp": {
+      "series": "Stormy",
+      "choices": {
+        "stormy-sephia": "Stormy — Sephia",
+        "stormy-flint": "Stormy — Flint",
+        "stormy-irish": "Stormy — Irish",
+        "stormy-scarlett": "Stormy — Scarlett"
+      }
+    },
+    "shade-377ecd5e6f6578.webp": {
+      "series": "Windy",
+      "choices": {
+        "windy-sunset": "Windy — Sunset",
+        "windy-sunrise": "Windy — Sunrise",
+        "windy-umber-black": "Windy — Umber Black",
+        "windy-cherry-oak": "Windy — Cherry Oak"
+      }
+    }
+  },
+  "motif-tryspan": {
+    "shade-2675e5ccb47d42.webp": {
+      "series": "Independence Day",
+      "choices": {
+        "independence-day-id-001": "Independence Day — ID-001",
+        "independence-day-id-002": "Independence Day — ID-002",
+        "independence-day-id-003": "Independence Day — ID-003",
+        "independence-day-id-004": "Independence Day — ID-004"
+      }
+    },
+    "shade-8e83c00aa93de3.webp": {
+      "series": "Antique Garden",
+      "choices": {
+        "antique-garden-silver-moon": "Antique Garden — Silver Moon",
+        "antique-garden-midnight-bloom": "Antique Garden — Midnight Bloom",
+        "antique-garden-bronze-marble": "Antique Garden — Bronze Marble",
+        "antique-garden-desert-dust": "Antique Garden — Desert Dust",
+        "antique-garden-black-lace": "Antique Garden — Black Lace"
+      }
+    },
+    "shade-ae247895c1da50.webp": {
+      "series": "Nebula",
+      "choices": {
+        "nebula-mocca-swirl": "Nebula — Mocca Swirl",
+        "nebula-taupe-cloud": "Nebula — Taupe Cloud",
+        "nebula-rose-mist": "Nebula — Rose Mist",
+        "nebula-galaxy": "Nebula — Galaxy",
+        "nebula-peach-galaxy": "Nebula — Peach Galaxy"
+      }
+    },
+    "shade-09186cb500c312.webp": {
+      "series": "Dandelion Dream",
+      "choices": {
+        "dandelion-dream-blush-petal": "Dandelion Dream — Blush Petal",
+        "dandelion-dream-lavender-haze": "Dandelion Dream — Lavender Haze",
+        "dandelion-dream-grey-mauve": "Dandelion Dream — Grey Mauve",
+        "dandelion-dream-lilac-sky": "Dandelion Dream — Lilac Sky",
+        "dandelion-dream-greige-bloom": "Dandelion Dream — Greige Bloom"
+      }
+    },
+    "shade-26f68971267187.webp": {
+      "series": "Ethnic Clover",
+      "choices": {
+        "ethnic-clover-cream": "Ethnic Clover — Cream",
+        "ethnic-clover-teal": "Ethnic Clover — Teal",
+        "ethnic-clover-maroon": "Ethnic Clover — Maroon",
+        "ethnic-clover-black": "Ethnic Clover — Black"
+      }
+    },
+    "shade-224986abf042db.webp": {
+      "series": "Cielo Basic",
+      "choices": {
+        "cielo-basic-pink": "Cielo Basic — Pink",
+        "cielo-basic-hijau": "Cielo Basic — Hijau",
+        "cielo-basic-abu-abu": "Cielo Basic — Abu-abu",
+        "cielo-basic-hitam": "Cielo Basic — Hitam"
+      }
+    },
+    "shade-5177e696c34a70.webp": {
+      "series": "Zaina / Tania",
+      "choices": {
+        "zaina-tania-green": "Zaina / Tania — Green",
+        "zaina-tania-blue": "Zaina / Tania — Blue",
+        "zaina-tania-cerise": "Zaina / Tania — Cerise",
+        "zaina-tania-pastel-pink": "Zaina / Tania — Pastel Pink",
+        "zaina-tania-violet": "Zaina / Tania — Violet"
+      }
+    },
+    "shade-dcd7b5e730dad1.webp": {
+      "series": "Primrose",
+      "choices": {
+        "primrose-cokelat-tua": "Primrose — Cokelat tua",
+        "primrose-mauve": "Primrose — Mauve",
+        "primrose-krem": "Primrose — Krem",
+        "primrose-putih-pink": "Primrose — Putih pink"
+      }
+    },
+    "shade-8367e30c6833b6.webp": {
+      "series": "June",
+      "choices": {
+        "june-wine": "June — Wine",
+        "june-grey-mauve": "June — Grey Mauve",
+        "june-pink": "June — Pink",
+        "june-sage": "June — Sage",
+        "june-broken-white": "June — Broken White"
+      }
+    },
+    "shade-6b6106d85873b8.webp": {
+      "series": "Eve",
+      "choices": {
+        "eve-aqua-blue": "Eve — Aqua Blue",
+        "eve-tosca": "Eve — Tosca",
+        "eve-orange-rush": "Eve — Orange Rush",
+        "eve-plum": "Eve — Plum",
+        "eve-broken-white": "Eve — Broken White"
+      }
+    },
+    "shade-a24d493d1f9251.webp": {
+      "series": "Classic Malay",
+      "choices": {
+        "classic-malay-broken-white": "Classic Malay — Broken White",
+        "classic-malay-blush": "Classic Malay — Blush",
+        "classic-malay-pink": "Classic Malay — Pink",
+        "classic-malay-navy": "Classic Malay — Navy",
+        "classic-malay-black": "Classic Malay — Black"
+      }
+    },
+    "shade-49a8127025dca9.webp": {
+      "series": "Ula",
+      "choices": {
+        "ula-lavender": "Ula — Lavender",
+        "ula-coral": "Ula — Coral",
+        "ula-lemon": "Ula — Lemon",
+        "ula-tosca": "Ula — Tosca",
+        "ula-blue": "Ula — Blue"
+      }
+    },
+    "shade-aeed62eba4557d.webp": {
+      "series": "Kamila",
+      "choices": {
+        "kamila-ivory": "Kamila — Ivory",
+        "kamila-peach": "Kamila — Peach"
+      }
+    },
+    "shade-dccc9c4b2dbd36.webp": {
+      "series": "Kamila",
+      "choices": {
+        "kamila-magenta": "Kamila — Magenta",
+        "alesha-fuschia": "Alesha — Fuschia"
+      }
+    },
+    "shade-411a9ef2199749.webp": {
+      "series": "Alesha",
+      "choices": {
+        "alesha-grey": "Alesha — Grey",
+        "alesha-lavender": "Alesha — Lavender"
+      }
+    }
+  },
+  "mukena-armani": {
+    "shade-b75e8271ac2c90.webp": {
+      "series": "Velvet Vol. 8",
+      "choices": {
+        "velvet-vol-8-brownie": "Velvet Vol. 8 — Brownie",
+        "velvet-vol-8-blue": "Velvet Vol. 8 — Blue",
+        "velvet-vol-8-pink": "Velvet Vol. 8 — Pink",
+        "velvet-vol-8-broken": "Velvet Vol. 8 — Broken"
+      }
+    },
+    "shade-cd75ca121f1b5c.webp": {
+      "series": "Velvet Vol. 9",
+      "choices": {
+        "velvet-vol-9-silver": "Velvet Vol. 9 — Silver",
+        "velvet-vol-9-blue": "Velvet Vol. 9 — Blue",
+        "velvet-vol-9-ash-brown": "Velvet Vol. 9 — Ash Brown",
+        "velvet-vol-9-violet": "Velvet Vol. 9 — Violet"
+      }
+    },
+    "shade-2bc314f0210bef.webp": {
+      "series": "Velvet Vol. 10",
+      "choices": {
+        "velvet-vol-10-blue": "Velvet Vol. 10 — Blue",
+        "velvet-vol-10-violet": "Velvet Vol. 10 — Violet",
+        "velvet-vol-10-brownie": "Velvet Vol. 10 — Brownie",
+        "velvet-vol-10-denim": "Velvet Vol. 10 — Denim"
+      }
+    }
+  },
+  "mukena-segenggam-lily": {
+    "shade-ec50fd227db082.webp": {
+      "series": "Mukena Segenggam Lily",
+      "choices": {
+        "pink": "Pink",
+        "grey": "Grey",
+        "purple": "Purple",
+        "soft-tosca": "Soft Tosca"
+      }
+    }
+  },
+  "mukena-rayon-viscose": {
+    "shade-a69cce24f1a4a1.webp": {
+      "series": "Mukena Rayon Viscose",
+      "choices": {
+        "broken-white": "Broken White",
+        "flamingo": "Flamingo",
+        "maroon": "Maroon",
+        "mahogany": "Mahogany",
+        "black": "Black"
+      }
+    }
+  },
+  "mukena-armani-ori": {
+    "shade-17de66838d4df6.webp": {
+      "series": "Raya Exclusives Vol. 5",
+      "choices": {
+        "vol-5-ivory": "Raya Exclusives Vol. 5 — Ivory",
+        "vol-5-light-mint": "Raya Exclusives Vol. 5 — Light Mint",
+        "vol-5-light-lilac": "Raya Exclusives Vol. 5 — Light Lilac",
+        "vol-5-shadow-pink": "Raya Exclusives Vol. 5 — Shadow Pink"
+      }
+    }
+  }
+}

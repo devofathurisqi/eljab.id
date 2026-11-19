@@ -2,12 +2,33 @@ import test from 'node:test';
 import assert from 'node:assert/strict';
 import {readFileSync,existsSync} from 'node:fs';
 import {createHash} from 'node:crypto';
-import {initialProductPhoto,productPhotos,variantPhoto,catalogVariant} from '../src/product-photos.ts';
+import {initialProductPhoto,productPhotos,variantPhoto,variantReferencePhoto,variantSwatch,catalogVariant} from '../src/product-photos.ts';
 import {cartSummary,orderMessage} from '../src/commerce.ts';
 
 const products=JSON.parse(readFileSync(new URL('../src/data/products.json',import.meta.url),'utf8'));
 
 const audit=JSON.parse(readFileSync(new URL('../catalog/variant-photo-audit.json',import.meta.url),'utf8'));
+
+test('only reviewed original group photos appear as references and do not become individual swatches', () => {
+  const allow = [];
+  for (const p of products) for (const v of p.variants) {
+    const reference = variantReferencePhoto(p, v);
+    if (!reference) continue;
+    assert.equal(audit.products[p.id][v.id].reason, 'Poster gabungan beberapa warna atau motif.');
+    assert.equal(reference.file, audit.products[p.id][v.id].sourceImage);
+    assert.equal(variantPhoto(p, v), '');
+    assert.equal(variantSwatch(p, v), '');
+    allow.push(reference.file);
+  }
+  assert.equal(allow.length, 106);
+  assert.equal(new Set(allow).size, 25);
+  const p = products.find(x => x.id === 'motif-tryspan');
+  const id003 = p.variants.find(v => v.id === 'independence-day-id-003');
+  assert.equal(variantReferencePhoto(p,id003).series, 'Independence Day');
+  assert.equal(variantReferencePhoto(p,{ ...id003, name: 'Another selection' }), undefined);
+  const paris = products.find(x => x.id === 'paris-legend');
+  assert.equal(variantReferencePhoto(paris, paris.variants.find(v => v.id === 'white')), undefined);
+});
 
 test('every current and legacy variant has an explicit photo decision and unchanged source asset',()=>{
  let verified=0,hidden=0,legacy=0;
